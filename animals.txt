@@ -1,5 +1,5 @@
-A Alligator
+A Aardvark
 B Bat
-C Cougar
+C Cat
 D Duck
 E Elephant
